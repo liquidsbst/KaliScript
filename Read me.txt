@@ -1,0 +1,11 @@
+Hello
+
+
+In \Script folder, the python code is located. 
+Must be uploaded on the linux machine with passwords.txt and usernames.txt files (bruteforce attack)
+
+
+Script and files are on github:
+https://github.com/liquidsbst/KaliScript/blob/main/auto_mate.py
+https://github.com/liquidsbst/KaliScript/blob/main/passwords.txt
+https://github.com/liquidsbst/KaliScript/blob/main/usernames.txt
